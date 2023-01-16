@@ -20,6 +20,6 @@ If you are interested in contributing to the project, please feel free to create
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Contact
-If you have any questions or feedback, please contact us at [email address].
+If you have any questions or feedback, please contact us at karan.kapoor@uwaterloo.ca
 
 Thank you for checking out our Image-based Sudoku Solver!
