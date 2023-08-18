@@ -3,8 +3,8 @@
 This is the GitHub repository for the Sudoku Solver, a software that used tradiitional computer vision techniques to read a Sudoku from an image, and then uses the backtracking algorithm to solve the Sudoku.
 
 ## Images
-<p>
-  <img src="/data/sudoku_solver_interface.jpg" width="350" />
+<p align="center">
+  <img src="/data/sudoku_solver_interface.jpg" width="400" />
 </p>
 <p align="center">
   Sudoku Solver: User Interface
