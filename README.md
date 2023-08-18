@@ -4,15 +4,15 @@ This is the GitHub repository for the Sudoku Solver, a software that used tradii
 
 ## Images
 <p align="center">
-  <img src="/data/sudoku_solver_interface.jpg" width="400" />
+  <img src="/data/sudoku_solver_interface.jpg" width="550" />
 </p>
 <p align="center">
   Sudoku Solver: User Interface
 </p>
 
 <p align="center">
-  <img src="/data/Sudoku Puzzles/Sudoku11.jpg" width="350" />
-  <img src="/results/solved_sudoku.jpg" width="350" />
+  <img src="/data/Sudoku Puzzles/Sudoku11.jpg" width="275" />
+  <img src="/results/solved_sudoku.jpg" width="275" />
 </p>
 
 <p align="center">
