@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This is the GitHub repository for the Sudoku Solver, a software that used tradiitional computer vision techniques to read a Sudoku from an image, and then uses the backtracking algorithm to solve the Sudoku.
+This is the GitHub repository for the Sudoku Solver, a software that used traditional computer vision techniques to read a Sudoku from an image, and then uses the backtracking algorithm to solve the Sudoku.
 
 ## Images
 <p align="center">
